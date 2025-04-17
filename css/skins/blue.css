@@ -35,8 +35,10 @@ header .header-inner .menu ul li span:before,
 .timeline ol li:not(:last-child)::after,
 .blog-page .page-item.active .page-link,
 .blog-page .page-item .page-link:hover {
+
     background-color: #ffffff;
     color:#007bff
+
 }
 
 .home>div>div h1 > span > span > span {
